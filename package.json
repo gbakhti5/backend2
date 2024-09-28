@@ -1,0 +1,19 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "back dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbakhti5/backend2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbakhti5/backend2/issues"
+  },
+  "homepage": "https://github.com/gbakhti5/backend2#readme"
+}
